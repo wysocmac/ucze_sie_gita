@@ -1,3 +1,5 @@
-Print('Hello')
-Print('Hell;lokjgetjvhf6g4o')
-Print('Hello\['pdl kvg;oimmp0')
+print('Hello')
+print('Hell;lokjgetjvhf6g4o')
+print('Hell;rgth')
+print('Hell;c')
+print('Hell;lokjgert')
