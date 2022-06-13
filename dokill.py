@@ -1,2 +1,0 @@
-koolejny do skasowania 
-
